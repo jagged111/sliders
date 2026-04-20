@@ -664,4 +664,12 @@ asian_mongol_26 = {
     #     5 = {  name = nose_septum_width_pos             range = { 0.0 0.75 }     }
     # }
 
+
+	gene_forehead_inner_brow_width = {
+		10 = { name = inner_brow_width	 range = {0.45 0.55}	  }
+	}
+
+	gene_bs_eye_fold_2 = {
+		10 = { name = eye_fold_2	 range = {0.0 0.0}	  }
+	}
 }

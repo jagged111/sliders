@@ -140,6 +140,18 @@ north_african_baranis_24 = {
 		100 = { name = eye_distance_pos	 range = {0.45 0.55}	  }
 	}
 
+	gene_eye_size = {
+		10 = { name = eye_size	 range = {0.45 0.55}	  }
+	}
+
+	gene_eye_shut_top = {
+		10 = { name = eye_shut_top	 range = {0.45 0.55}	  }
+	}
+
+	gene_eye_shut_bottom = {
+		10 = { name = eye_shut_bottom	 range = {0.45 0.55}	  }
+	}
+
 	gene_eye_shut = {
 		100 = { name = eye_shut_pos	 range = {0.51 0.6}	  }
 	}
@@ -150,6 +162,10 @@ north_african_baranis_24 = {
 
 	gene_forehead_brow_height = {
 		100 = { name = forehead_brow_height_pos	 range = {0.54 0.64}	  }
+	}
+
+	gene_forehead_inner_brow_width = {
+		10 = { name = inner_brow_width	 range = {0.45 0.55}	  }
 	}
 
 	gene_forehead_roundness = {
@@ -255,6 +271,10 @@ north_african_baranis_24 = {
         10 = { name = neck_width_pos    range = { 0.5 0.5 }    }
         5 = { name = neck_width_pos    range = { 0.5 0.5 }    }
     }
+
+	gene_bs_eye_fold_2 = {
+		10 = { name = eye_fold_2	 range = {0.0 0.0}	  }
+	}
 
 	gene_bs_cheek_forward = {
 		100 = { name = cheek_forward_neg	 range = {0.01 0.11}	  }

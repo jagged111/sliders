@@ -1,4 +1,4 @@
-Ensure all E&P ethnicity preset files contain a consistent set of eye / brow gene blocks so downstream tools can rely on their presence.
+(patch 1000 files at a time) Ensure all E&P ethnicity preset files contain a consistent set of eye / brow gene blocks so downstream tools can rely on their presence. 
 Perform the update in batches to avoid huge single-run edits and stay within tool size limits.
 Description
 Insert the following gene blocks when absent into epe genes/ethnicities/e&p*.txt files: gene_eye_size, gene_eye_shut_top, gene_eye_shut_bottom, gene_forehead_inner_brow_width, and gene_bs_eye_fold_2. 

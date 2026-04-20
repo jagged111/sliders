@@ -1528,37 +1528,6 @@ morph_genes = {
 		}
 
 	
-		gene_bs_head_round_shape = {
-			ugliness_feature_categories = { head }
-			group = face
-	
-			vanilla_head_round_shape = { 
-				visible = no
-				index = 0 
-				male = {}
-				female = male
-				boy = male
-				girl = male
-			}
-	
-			head_round_shape = { 
-				index = 1 
-				male = { 
-					setting = { attribute = "bs_head_round_shape"	value = { min = @maleMin max = @maleMax }	age = age_preset_child_features } 
-				}
-				female = { 
-					setting = { attribute = "bs_head_round_shape"	value = { min = @femaleMin max = @femaleMax }	age = age_preset_child_features } 
-				}
-				boy = { 
-					setting = { attribute = "bs_head_round_shape"	value = { min = @boyMin max = @boyMax }   age = age_preset_child_features } 
-				}
-				girl = { 
-					setting = { attribute = "bs_head_round_shape"	value = { min = @girlMin max = @girlMax }   age = age_preset_child_features } 
-				}
-			}
-		}
-
-	
 		gene_forehead_inner_brow_width = {
 			ugliness_feature_categories = { head eyes }
 			group = face
@@ -1632,7 +1601,6 @@ morph_genes = {
 			}
 		}
 }
-
 
 
 

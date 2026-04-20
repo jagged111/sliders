@@ -115,6 +115,18 @@ west_african_3 = {
 	    100 = { name = eye_distance_neg    range = { 0.47 0.52 }    }
 	}
 	
+	gene_eye_size = {
+		10 = { name = eye_size    range = { 0.45 0.55 }    }
+	}
+
+	gene_eye_shut_top = {
+		10 = { name = eye_shut_top    range = { 0.45 0.55 }    }
+	}
+
+	gene_eye_shut_bottom = {
+		10 = { name = eye_shut_bottom    range = { 0.45 0.55 }    }
+	}
+
 	gene_eye_shut = {
 	    100 = { name = eye_shut_neg    range = { 0.42 0.52 }    }
 	}
@@ -127,6 +139,10 @@ west_african_3 = {
         100 = { name = forehead_brow_height_neg    range = { 0.55 0.67 }    }
     }
 	
+	gene_forehead_inner_brow_width = {
+		10 = { name = inner_brow_width    range = { 0.45 0.55 }    }
+	}
+
 	 gene_forehead_roundness = {
         45 = { name = forehead_roundness_neg    range = { 0.4 0.5 }    }
         55 = { name = forehead_roundness_neg    range = { 0.5 0.6 }    }
@@ -236,6 +252,10 @@ west_african_3 = {
         100 = { name = neck_width_pos    range = { 0.25 0.45 }    }
     }
 	
+	gene_bs_eye_fold_2 = {
+		10 = { name = eye_fold_2    range = { 0.0 0.0 }    }
+	}
+
 	gene_bs_cheek_forward = {
         100 = { name = cheek_forward_neg    range = { 0.0 0.15 }    }
     }

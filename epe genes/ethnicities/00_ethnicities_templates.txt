@@ -1578,10 +1578,6 @@ ethnicity_template = {
         0 = { name = vanilla_eye_fold_2        range = { 0.0 0.0 }    traits = { beauty_3 }    }
     }
 
-    gene_bs_head_round_shape = {
-        10 = {  name = head_round_shape             range = { 0.45 0.55 }     }
-    }
-
     gene_forehead_inner_brow_width = {
         10 = {  name = inner_brow_width             range = { 0.45 0.55 }     }
     }

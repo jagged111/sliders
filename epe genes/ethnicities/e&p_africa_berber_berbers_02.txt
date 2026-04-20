@@ -142,6 +142,18 @@ north_african_berber_2 = {
         30 = { name = eye_distance_pos    range = { 0.5 0.52 }    }
     }
 
+    gene_eye_size = {
+        10 = { name = eye_size    range = { 0.45 0.55 }    }
+    }
+
+    gene_eye_shut_top = {
+        10 = { name = eye_shut_top    range = { 0.45 0.55 }    }
+    }
+
+    gene_eye_shut_bottom = {
+        10 = { name = eye_shut_bottom    range = { 0.45 0.55 }    }
+    }
+
     gene_eye_shut = {
         100 = { name = eye_shut_pos    range = { 0.45 0.55 }    }
     }
@@ -152,6 +164,10 @@ north_african_berber_2 = {
 
     gene_forehead_brow_height = {
         100 = { name = forehead_brow_height_pos    range = { 0.5 0.7 }    }
+    }
+
+    gene_forehead_inner_brow_width = {
+        10 = { name = inner_brow_width    range = { 0.45 0.55 }    }
     }
 
     gene_forehead_roundness = {
@@ -409,6 +425,10 @@ north_african_berber_2 = {
         70 = { name = nose_nostril_width_pos    range = { 0.0 0.25 }    }
         30 = { name = nose_nostril_width_neg    range = { 0.0 0.05 }    }
     }
+
+	gene_bs_eye_fold_2 = {
+		10 = { name = eye_fold_2	 range = {0.0 0.0}	  }
+	}
 
 	gene_bs_nose_profile = {
 	    0 = { name = nose_profile_neg    range = { 0.4 0.5   }    }

@@ -113,6 +113,18 @@ east_african_nubian_17 = {
 		100 = { name = eye_distance_pos	 range = {0.38 0.5}	  }
 	}
 
+	gene_eye_size = {
+		10 = { name = eye_size	 range = {0.45 0.55}	  }
+	}
+
+	gene_eye_shut_top = {
+		10 = { name = eye_shut_top	 range = {0.45 0.55}	  }
+	}
+
+	gene_eye_shut_bottom = {
+		10 = { name = eye_shut_bottom	 range = {0.45 0.55}	  }
+	}
+
 	gene_eye_shut = {
 		100 = { name = eye_shut_pos	 range = {0.52 0.66}	  }
 	}
@@ -123,6 +135,10 @@ east_african_nubian_17 = {
 
 	gene_forehead_brow_height = {
 		100 = { name = forehead_brow_height_pos	 range = {0.68 0.8}	  }
+	}
+
+	gene_forehead_inner_brow_width = {
+		10 = { name = inner_brow_width	 range = {0.45 0.55}	  }
 	}
 
 	gene_forehead_roundness = {
@@ -211,6 +227,10 @@ east_african_nubian_17 = {
 
 	gene_neck_width = {
 		100 = { name = neck_width_pos	 range = {0.34 0.47}	  }
+	}
+
+	gene_bs_eye_fold_2 = {
+		10 = { name = eye_fold_2	 range = {0.0 0.0}	  }
 	}
 
 	gene_bs_cheek_forward = {

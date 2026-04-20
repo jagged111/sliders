@@ -115,6 +115,18 @@ west_african_senegambian_14 = {
 		100 = { name = eye_distance_neg	 range = {0.39 0.5}	  }
 	}
 
+	gene_eye_size = {
+		10 = { name = eye_size	 range = {0.45 0.55}	  }
+	}
+
+	gene_eye_shut_top = {
+		10 = { name = eye_shut_top	 range = {0.45 0.55}	  }
+	}
+
+	gene_eye_shut_bottom = {
+		10 = { name = eye_shut_bottom	 range = {0.45 0.55}	  }
+	}
+
 	gene_eye_shut = {
 		100 = { name = eye_shut_neg	 range = {0.45 0.68}	  }
 	}
@@ -125,6 +137,10 @@ west_african_senegambian_14 = {
 
 	gene_forehead_brow_height = {
 		100 = { name = forehead_brow_height_neg	 range = {0.51 0.65}	  }
+	}
+
+	gene_forehead_inner_brow_width = {
+		10 = { name = inner_brow_width	 range = {0.45 0.55}	  }
 	}
 
 	gene_forehead_roundness = {
@@ -213,6 +229,10 @@ west_african_senegambian_14 = {
 
 	gene_neck_width = {
 		100 = { name = neck_width_pos	 range = {0.25 0.35}	  }
+	}
+
+	gene_bs_eye_fold_2 = {
+		10 = { name = eye_fold_2	 range = {0.0 0.0}	  }
 	}
 
 	gene_bs_cheek_forward = {

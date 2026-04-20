@@ -2166,6 +2166,8 @@
 
 												vbox = {
 													layoutpolicy_vertical = expanding
+													# AGOT compatibility: keep slider label entries aligned with AGOT ruler designer behavior
+													visible = "[Not(ObjectsEqual(GeneCategory.GetName, Localize('gene_height')))]"
 
 													text_label_left = {
 														layoutpolicy_horizontal = expanding
